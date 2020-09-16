@@ -1,6 +1,6 @@
 ### Hi there, I'm Subhash Yadav - [Portfolio][website] 👋
 
-[![Website](https://img.shields.io/website?label=Coding In Nepal&style=for-the-badge&url=https%3A%2F%2Fcodinginnepal.bllogspot.com)](https://codinginnepal.blogspot.com)
+[![Website](https://img.shields.io/website?label=Coding_In_Nepal&style=for-the-badge&url=https%3A%2F%2Fcodinginnepal.bllogspot.com)](https://codinginnepal.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmesubhash404?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FitsmeSubhash404&screen_name=itsmesubhash404)
 
 ## I'm a Web App Developer, UI/UX Designer, Learner, and Teacher!

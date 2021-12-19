@@ -1,11 +1,11 @@
 ### Hi there, I'm Subhash Yadav - [My Portfolio][portfolio] 👋
 
-[![Website](https://img.shields.io/website?label=coding_in_nepal&style=for-the-badge&url=https%3A%2F%2Fcodinginnepal.blogspot.com)](https://codinginnepal.blogspot.com/)
+[![Website](https://img.shields.io/website?label=Subhash_Yadavl&style=for-the-badge&url=https%3A%2F%2Fsubhashyadav.com.np)](https://subhashyadav.com.np/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmesubhash404?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FitsmeSubhash404&screen_name=itsmesubhash404)
 
 ## I'm a Web App Developer, UI/UX Designer, Learner, and Teacher!
 
-- 🔭 I’m currently working on a [Coding In Nepal][website] !
+- 🔭 I’m a [Web Developer][portfolio] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
